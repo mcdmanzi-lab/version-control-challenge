@@ -11,4 +11,7 @@ This repository contains beginner study notes for version control practice. It w
 - Collaboration best practices
 
 ## How to Use This Repository
-Open the files and review the notes. Feel free to explore the commit history to see how the project evolved step-by-step.
+1. Clone the repository to your local machine.
+2. Explore the `notes.md` file for Git concepts.
+3. Review the `resources.md` (coming soon) for external links.
+4. Check the branch history to see feature development.
